@@ -35,3 +35,10 @@ a {
     border-color: black;
     border-radius: 10px;
 }
+#MatthewsPhotos {
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px;
+}
