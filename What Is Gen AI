@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title> What is Generative AI </title>
+<link rel = "stylesheet" type = "text/css" href = "Pages/GenAI CSS.css">
+</head>
+
+<Body>
+    
+<ul>
+    <li><a href="Pages/Home Page.html"> Home </a> </li>
+    <li><a href="Pages/What is Gen AI.html"> What is Generative AI </a> </li>
+    <li><a href="Pages/Conclusion.html"> Conclusion</a> </li>
+</ul>
+  
+    <H1> How Does Generative AI work? </H1>
+  
+
+  <p>
+        Generative AI works by learning from massive amounts of data and then using that knowledge to create entirely new content. It's made up of advanced neural networks that are designed to recognise complex patterns and relationships within data. On a basic underlying machinery level, there isn't much difference between Generative AI and other AI, "When it comes to the actual machinery underlying generative AI and other types of AI, the distinctions can be a little bit blurry. Oftentimes, the same algorithms can be used for both," -Phillip Ispla, associate professor of electrical engineering and computer science at MIT. The key difference is the training generative AI undergoes. <br><br>
+        <img src= "C:\Users\chris\OneDrive - University of Strathclyde\CS101 Environmental Impact of Gen AI\CR GenAI 1.jpg" height = "100" alt = "Geneartive AI Image 1" image.align = "center"/ >
+        It is trained by being exposed to billions of examples and analysing them. It learns words and sentences and visual stimuli. It constantly tries to predict what is next in a sequence and adjusts itself to improve those predictions. For example, if it sees the message "Once upon a", it will guess the next word to be "time". Through millions of predictions like this, it becomes better at generating natural text. This all contributes to generative AI's ability to take a short input and create humanoid creative responses. Through all its learning it is a powerful tool for creativity and problem solving.
+    </p>
+    <H1> Generative AI growth </H1>
+    <p>
+        The usage of Generative AI is rising at a serious rate. Britain is among the world leaders in integrating AI into its workforce. According to forbs "Britain has twice the number of AI-based companies than any European nation". It has become a thing that almost all students are using. According to Hepi, "In 2025, we find that the student use of AI has surged in the last year, with almost all students (92%) now using AI in some form, up from 66% in 2024, and some 88% having used GenAI for assessments, up from 53% in 2024." These number highlight how quickly generative AI has become a commonly used tool for people, especially in education. 
+    </p>
+      <H1> Chat GPT </H1>
+      <p>
+        In November 2022, chat GPT was created and changed the way people think. Just as Google changed the way people tackled problems in the late 90s, so too did chat GPT change people's mindsets on information, creativity, and problem-solving.  <br>
+Being the first publicly accessible AI of its kind, it gained huge popularity quickly. The rapid response time made it such a convenient tool for users. It offered human-like response capabilities that gripped people so quickly. It can easily comprehend follow-up questions and can reword complex ideas. Having problems not only instantly answered in detail but also feeling like a casual conversation specifically catered to the user made it a favourite for people to use. It blurred the line between human and machine-generated ideas.<br>
+However, people quickly realised what it was capable of and started to exploit it. School pupils would ask it to write entire essays with specific word counts, which it would return instantly. They would send all their homework in and have it completed for them. This means that these children aren't learning, they are just handing in work that isn't theirs. According to National Literacy Trust, the most popular uses of generative AI among young people (13-18) was for asking questions (61.2%), help with homework (60.9%) and for entertainment (52.8%). Although it seemed like the perfect tool, it has lots of downsides.<br>
+One of the main problems with Generative AI is that it always wants to give an answer, which leads to it making things up if it cannot find relevant information. This can lead to it being extremely unreliable and dangerous as it presents this misinformation as fact. 
+
+      </p>
+</Body>
