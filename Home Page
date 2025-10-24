@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+<title> Home Page </title>
+<link rel = "stylesheet" type = ""C:\Users\chris\OneDrive - University of Strathclyde\CS101 Environmental Impact of Gen AI\Pages\GenAI CSS.css"">
+</head>
+<Body>
+<ul>
+    <li><a href=""C:\Users\chris\OneDrive - University of Strathclyde\CS101 Environmental Impact of Gen AI\Pages\Home Page.html""> Home </a> </li>
+    <li><a href=""C:\Users\chris\OneDrive - University of Strathclyde\CS101 Environmental Impact of Gen AI\Pages\What is Gen AI.html""> What is Generative AI </a> </li>
+    <li> <a href=""C:\Users\chris\OneDrive - University of Strathclyde\CS101 Environmental Impact of Gen AI\Pages\Conclusion.html""> Conclusion</a>  </li>
+</ul>
+
+    <H1> The Environmental Impact of Generative AI </H1>
+    <img src= "images/Environmental Impact.jpg" height = "300" alt = "Environmetal Impact of Generative AI">
+
+     <p>
+        Generative AI has taken the world by storm. The sensation of a chat bot that has instant humanoid response has become a necessary tool for people to function. From creating art, writing code, completing essays and homework, it transformed the world almost overnight. People's mindsets had been changed, the phrase, "Google it" quickly evolved into "Let me ask Chat GPT". It has the power to immensely help society, but also to destroy it. Generative AI also has lots of environmental downsides, we must consider if the damage it causes is worth it.
+    </p>
+    <br>
+    <img src= "images/CR GenAI 2.jpg" height = "300" alt = "Environmetal Impact of Generative AI">
+    <br>
+    <h2> What is Generative AI?</h2>
+    <p>
+        Generative AI (Artificial Intelligence) is a digital tool which creates new content, including code, images, text, videos, and more. From chatbots to art generators, generative AI is already changing the way we think, learn and create. Unlike traditional computer programs that follow a fixed set of instructions, generative AI learns from enormous amounts of data and uses that knowledge to generate something entirely new. This makes it very different from search engines, which can only use information that already exists. Generative AI systems can produce creative and human-like outputs that often seem as though they were made by a person. While it may appear as a great tool that can solve many problems, it also raises serious concerns.
+    </p>
+
+</Body>
