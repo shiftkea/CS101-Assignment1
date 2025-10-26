@@ -64,11 +64,10 @@ a {
 
 
 .sidenav a:hover {
-  color: #f1f1f1;
-}
+   background-color: rgb(81, 180, 241);
+  color: white;
+.main }
 
-
-.main {
 
   margin-left: 290px; 
   padding: 0px 10px;
