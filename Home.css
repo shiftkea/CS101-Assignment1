@@ -73,3 +73,12 @@ li a:hover {
   background-color: blue;
   color: white;
 }
+
+ #med {
+    width: 200px;
+    height: 125px;
+}
+#UN {
+    width: 400px;
+    height: 225px;
+}
