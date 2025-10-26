@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="Home.css" type="text/css"> 
+    <link rel="stylesheet" href="mystyle.css" type="text/css"> 
     <title>Generative AI</title>
 </head>
 <body>
