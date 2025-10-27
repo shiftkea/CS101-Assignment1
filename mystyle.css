@@ -112,11 +112,11 @@ footer{
 
 /* Nos' CSS Starts here */
 #businesspics {
-    width: 190px; 
-    height: 150px;
-    border-radius: 8px;
-    padding-right: 30px;
-    padding-left: 30px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
 }
 
 #ai-education {
@@ -127,11 +127,11 @@ footer{
 }
 
 #education-pics {
-    width: 190px; 
-    height: 150px;
-    border-radius: 8px;
-    padding-right: 30px; 
-    padding-left: 30px; 
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px; 
 }
 
 
