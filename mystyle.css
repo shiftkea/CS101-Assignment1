@@ -92,8 +92,8 @@ a {
     border-style: solid;
     border-color: black;
     border-radius: 10px;
-    width: 200px;
-    height: 100px;
+    width: 500px;
+    height: 400px;
 }
 
 li a:hover {
