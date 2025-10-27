@@ -89,6 +89,14 @@ a {
     height: 250px;
 }
 
+#environmentalPhotos {
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+
 #citations {
     color: white;
 }
