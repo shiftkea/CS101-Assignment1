@@ -1,14 +1,14 @@
 
 
 body {
-    background-color: #0B6623;
+    background-color: #f28999;
     font-family: "Comic Sans MS";
     text-align: center;
     color: white;
 }
 
 div {
-    background-color: #FFB5C0;
+    background-color: #f28999;
     border-style: solid;
     border-color: black;
 
@@ -88,12 +88,9 @@ a {
     width: 250px;
     height: 250px;
 }
-#environmentalPhotos {
-    border-style: solid;
-    border-color: black;
-    border-radius: 10px;
-    width: 350px;
-    height: 200px;
+
+#citations {
+    color: white;
 }
 
 li a:hover {
@@ -151,10 +148,6 @@ hr {
 }
 
 #UN {
-    width: 250px;
-    height: 200px;
-    border-style: solid;
-    border-color: black;
-    border-radius: 10px;
-   
+    width: 300px;
+    height: 180px;
 }
