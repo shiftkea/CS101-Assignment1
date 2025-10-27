@@ -140,5 +140,10 @@ footer{
     height: 200px; 
 }
 
-
+hr {
+    height: 2px;
+    border-width:0;
+    color:rgb(81, 180, 241);;
+    background-color:gray;
+}
 
