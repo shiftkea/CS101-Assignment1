@@ -159,3 +159,7 @@ hr {
     width: 300px;
     height: 180px;
 }
+
+#back{background-image: linear-gradient(to bottom, #FFB5C0, #E4ADC4)}
+
+img{border-radius: 50%;}
